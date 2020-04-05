@@ -1,1 +1,1 @@
-# SARS-CoV-2 decoding with Biopython
+# SARS-CoV-2 analysis with Biopython
